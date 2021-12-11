@@ -13,4 +13,5 @@
     <string name="Welcome">Bienvenido!</string>
     <string name="description">Aqui puedes encontrar y explorar las mejores zonas turisticas de distintos lugares en el mundo, y Compartir con las personas mas cercanas opiniones sobre los lugares que haz visitado</string>
     <string name="titulo">Lets travel together!!</string>
+    <string name="loginlayout_title">Viajes por el Mundo</string>
 </resources>
