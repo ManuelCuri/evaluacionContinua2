@@ -60,25 +60,3 @@ public class HomeFragment extends Fragment {
         super.onCreateOptionsMenu(menu, menuInflater);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

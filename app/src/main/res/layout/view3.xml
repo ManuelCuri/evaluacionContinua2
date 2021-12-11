@@ -14,7 +14,7 @@
             style="@style/widget.app.Toolbar"
             android:layout_width="match_parent"
             android:layout_height="56dp"
-            app:title="@string/app_name"
+            app:title="@string/titulo"
             app:navigationIcon="@drawable/hamburger_menu"
             />
     </com.google.android.material.appbar.AppBarLayout>

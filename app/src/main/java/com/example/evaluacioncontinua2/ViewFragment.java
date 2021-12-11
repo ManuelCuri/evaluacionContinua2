@@ -54,16 +54,3 @@ public class ViewFragment extends Fragment {
     }
     private boolean isPasswordValid(@Nullable Editable text){ return text != null && text.length() >= 6;}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
