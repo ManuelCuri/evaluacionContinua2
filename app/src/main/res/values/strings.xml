@@ -10,4 +10,6 @@
     <string name="filter_title">Title</string>
     <string name="product_title">Titulo</string>
     <string name="product_description">Hola, estas listo para empezar a viajar </string>
+    <string name="Welcome">Bienvenido!</string>
+    <string name="description">Aqui puedes encontrar y explorar las mejores zonas turisticas de distintos lugares en el mundo, y Compartir con las personas mas cercanas opiniones sobre los lugares que haz visitado</string>
 </resources>
